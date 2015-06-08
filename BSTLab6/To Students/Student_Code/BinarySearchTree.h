@@ -1,7 +1,8 @@
 #include "NodeInterface.h"
+#include "BSTInterface.h"
 #include "Node.h"
 #pragma once
-class BinarySearchTree
+class BinarySearchTree : public BSTInterface 
 {
 public:
 	//Please note that the class that implements this interface must be made
