@@ -36,7 +36,6 @@ private:
 };
 
 
-
 /*Node<T>* List<T>::find(T value) {
   if(!head) return NULL;
   Node<T> *node = head;
